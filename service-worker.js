@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/shlak/precache-manifest.2c221cbfc9a23e523f8ebd5ea8aa5d2a.js"
+  "/precache-manifest.46aab88956234e0197ff3c7492881b2f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "shlak"});
